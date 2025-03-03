@@ -11,12 +11,12 @@
             "dest": "/"
         },
         {
-            "src": "/recruit",
-            "dest": "/"
+            "src": "/forms",
+            "dest": "/forms"
         },
         {
-            "src": "/tos",
-            "dest": "/"
+            "src": "/sobre",
+            "dest": "/sobre"
         }
     ]
 }
