@@ -1,22 +1,8 @@
 {
-    "rewrites": [
-        {
-            "source": "/(.*)",
-            "destination": "/"
-        }
-    ],
     "routes": [
-        {
-            "src": "/",
-            "dest": "/"
-        },
-        {
-            "src": "/forms",
-            "dest": "/forms"
-        },
-        {
-            "src": "/sobre",
-            "dest": "/sobre"
-        }
+      {
+        "src": "/[^.]+",
+        "dest": "/"
+      }
     ]
-}
+  }
