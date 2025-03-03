@@ -13,8 +13,8 @@ function AppRoutes() {
       <Header />
       <Routes>
         <Route path='/' element={<Dashboard />} />
-        <Route path='forms' element={<Forms />} />
-        <Route path='sobre' element={<About />} />
+        <Route path='/forms' element={<Forms />} />
+        <Route path='/sobre' element={<About />} />
       </Routes>
       <Footer />
     </BrowserRouter>

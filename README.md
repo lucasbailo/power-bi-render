@@ -1,6 +1,6 @@
 ## Welcome again to a PowerBI + React project! 👋
 
-## Test the project yourself: [Teste the project here!!!](https://power-bi-render-8838vmqbl-lucas-bailos-projects.vercel.app/)
+## Test the project yourself: [Teste the project here!!!](https://power-bi-render.vercel.app/)
 
 #### Using maps to filter data
 
