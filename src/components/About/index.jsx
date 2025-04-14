@@ -32,6 +32,20 @@ function About() {
                 <p className="py-5">
                     <strong>Obs:</strong> Todos os dados utilizados são públicos.
                 </p>
+                <div className="flex flex-col gap-2">
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdarE4xZ8FpjnwTxC__d5zKvK7r7VCRn7C79YvsJbeUqh8sLA/viewform?usp=sharing"
+                        className="text-blue-500 hover:font-bold"
+                    >
+                        Link direto do Form de cadastro
+                    </a>
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSfXFsQPxkmvcmNgxIprFqeQra_ZZrz9ucsfyRrPhfEzAxrHZg/viewform?usp=sharing"
+                        className="text-blue-500 hover:font-bold"
+                    >
+                        Link direto do Form de GASTOS
+                    </a>
+                </div>
             </div >
         </main >
     )

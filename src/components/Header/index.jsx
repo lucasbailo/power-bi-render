@@ -18,6 +18,11 @@ function Header() {
                         Tela de Cadastro
                     </a>
                 </div>
+                <div className="hover:scale-110 transition hover:text-amber-200">
+                    <a href="/gastos">
+                        Gastos
+                    </a>
+                </div>
             </div>
         </header>
     )
